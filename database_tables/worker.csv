@@ -1,0 +1,10 @@
+WORKER_ID,FIRST_NAME,LAST_NAME,SALARY,JOINING_DATE,DEPARTMENT
+1,Siddharth,Singh,80000,"2019-03-20 09:00:00",HR
+2,Vaibhav,Varshney,100000,"2019-02-20 09:00:00",Account
+3,"Pavan kumar",Mylapuru,25000,"2022-08-29 09:00:00",ASD
+4,Komal,Mylapuru,40000,"2024-05-01 09:00:00","Senior developer"
+5,Madhu,Sudhan,20000,"2024-06-01 09:00:00",Analysist
+6,Haseeb,Shaik,26000,"2023-08-29 09:00:00",ASD
+7,Roshan,Shaik,25000,"2024-12-01 09:00:00",Tester
+8,Aman,Nain,75000,"2019-07-11 09:00:00",Account
+9,Farhaan,Majied,500000,"2019-05-11 09:00:00",Admin
